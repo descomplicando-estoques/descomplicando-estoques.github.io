@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com/"
+baseURL = "http://jvanz.com/descomplicando_estoque/"
 languageCode = "pt-br"
 title = "Descomplicando Estoque"
 themesDir = "themes"
@@ -33,8 +33,8 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Serviços"
-	url = "/services/"
+    name = "Serviços"
+    url = "/services/"
     weight = 1
 
 [[menu.main]]
