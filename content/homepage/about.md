@@ -3,7 +3,7 @@ title: 'Nossa diferença'
 weight: 2
 background: ''
 button: 'Sobre nós'
-buttonLink: 'Sobre Nós'
+buttonLink: 'about'
 ---
 
 Você pode contar com  profissionais com vasta experiência  no chão de loja, identificando problemas
