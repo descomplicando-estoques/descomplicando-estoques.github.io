@@ -4,53 +4,63 @@ date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
+heroHeading: 'Gestão de compras'
+#heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Dentro de uma organização, independente do seu tamanho, desde o mercadinho de
+bairro ou um hipermercado, o setor de compras  é um dos setores mais importantes.
+Ele é o início de toda atividade comercial bem-sucedida.
 
-## Ne verba patulosque numen vix libet
+Podemos não ter sede própria, nossos equipamentos podem ser de última geração,
+podemos não estar na midia quanto gostariamos , mas, se não  tivermos produtos
+de qualidade (entende-se aqui de qualidade, produtos que atendam perfeitamente
+a necessidade do nosso cliente, da comunidade onde estamos inseridos), não teremos sucesso.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Para uma comunidade de trabalhadores, seja qual for a indústria a qual trabalham,
+não adianta ter o melhor  vinho português ou  argentino, nem a massa italiana,
+nosso foco tem que ser dirigido ao nosso público, Nosso vinho, por exemplo, tem
+que partir  de um vinho suave, uma cerveja de boa qualidade, com diversidade de preços
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Para uma comunidade de classe média, nosso vinho deve ser seco, argentino, chileno,
+português etc, a cerveja artesanal não  pode faltar. Cabe ao setor comercial identificar este público
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+O Mix pode estar atrelado ao espaço físico, ao público-alvo, as sazonalidades,
+ao clima, etc. Nem tudo que desejamos vender, será possível, mas, dentro de nossas
+limitações o Mix  deve ser o mais variado possível.
 
-## Postquam tamen
+Dentro da organização, os compradores devem ter nítido os objetivos, público alvo e
+todas as limitações e oportunidades que envolvem sua empresa.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Exemplo de objetivo:
+1) Atender a classe B, em suas necessidades diárias, em forma de conveniência,
+pequenas compras, em que o cliente normalmente vai  buscar produtos básicos para
+completar sua necessidade imediata, pois está próximo a residência .
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+2) Atender a classe B e suprir todas as suas necessidades, desde o rancho semanal
+ou mensal, suas necessidades diárias e compras por impulso.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+Um objetivo é totalmente diferente do outro. E cabe ao comprador identificar
+que tipo de produto comprar. Para essa compra se tornar cada vez mais eficiente,
+o comprador necessita de informações que muitas vezes não estão disponíveis,
+por exemplo:
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+-  Níveis de estoques confiáveis
+-  Níveis de ruptura;
+-  Níveis de estoque em excesso (estoque em nº de dias para venda);
+-  Comprometimento do capital de giro (valor disponivel para compra);
+-  Lucratividade por produto e por categoria;
+-  O mix e suas similaridades;
+-  A classificação dos produtos já vendidos na loja (classes A, B, C, D);
+-  Local e espaço de armazenamento;
+-  Capacidade de gôndola;
+-  Validade em dias dos produtos;
+-  Possíveis fornecedores (direto da indústria ou distribuidora);
+-  Prazos de visita do vendedor e prazos de entrega;
+
+São apenas algumas das informações necessárias para que o comercial tome boas decisões na hora de comprar.
+
+por menor que seja o seu comércio, é a organização e conhecimento de seus limites e
+oportunidades,  que vão fortalecer sua empresa no mercado.
+
