@@ -1,4 +1,4 @@
-baseURL = "http://jvanz.com/descomplicando_estoque/"
+baseURL = "https://descomplicando-estoques.github.io"
 languageCode = "pt-br"
 title = "Descomplicando Estoque"
 themesDir = "themes"
